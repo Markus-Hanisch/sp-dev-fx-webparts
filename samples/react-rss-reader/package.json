@@ -25,7 +25,7 @@
     "@types/react-dom": "16.0.5",
     "@types/webpack-env": "1.13.1",
     "common-tags": "1.8.0",
-    "handlebars": "4.0.12",
+    "handlebars": "4.7.9",
     "handlebars-helpers": "0.8.4",
     "moment": "2.22.2",
     "react": "16.3.2",
